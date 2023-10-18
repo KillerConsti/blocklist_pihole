@@ -9,4 +9,3 @@
 # google.com, mailscanner.info, github.com/AdguardTeam, HyperPhish.com, CryptoScamDB 
 # sowie lumendatabase.org.
 
-||candyprotected.com
